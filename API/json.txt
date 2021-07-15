@@ -1,0 +1,13 @@
+{
+  "array": [
+    1,
+    2,
+    3
+  ],
+  "boolean": true,
+  "color": "gold",
+  "null": null,
+  "number": 123,
+  "object": [{"name": "Rupesh", "age": 30}, {"name": "Advay", "age": 1}],
+  "string": "Hello World"
+}

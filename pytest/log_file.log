@@ -1,0 +1,18 @@
+2021-05-18 13:46:35,831 : WARNING : __name__ : Pytest warning is shown
+2021-05-18 13:46:35,831 : ERROR : __name__ : Pytest error found
+2021-05-18 13:46:35,832 : CRITICAL : __name__ : Pytest critical issue found
+2021-05-18 13:53:39,457 : ERROR : pytestPackage.test_logging : Pytest error found
+2021-05-18 13:53:39,457 : CRITICAL : pytestPackage.test_logging : Pytest critical issue found
+2021-05-18 16:29:46,241 : INFO : test_data : Rupesh
+2021-05-18 16:29:46,242 : INFO : test_data : Modak
+2021-05-18 16:29:46,242 : INFO : test_data : rupeshmodak@gmail.com
+2021-07-14 14:01:57,448 : INFO : test_data : Rupesh
+2021-07-14 14:01:57,448 : INFO : test_data : Modak
+2021-07-14 14:01:57,448 : INFO : test_data : rupeshmodak@gmail.com
+2021-07-14 14:01:57,480 : ERROR : pytestPackage.test_logging : Pytest error found
+2021-07-14 14:01:57,480 : CRITICAL : pytestPackage.test_logging : Pytest critical issue found
+2021-07-14 14:05:10,139 : INFO : test_data : Rupesh
+2021-07-14 14:05:10,139 : INFO : test_data : Modak
+2021-07-14 14:05:10,139 : INFO : test_data : rupeshmodak@gmail.com
+2021-07-14 14:05:10,139 : ERROR : pytestPackage.test_logging : Pytest error found
+2021-07-14 14:05:10,139 : CRITICAL : pytestPackage.test_logging : Pytest critical issue found
